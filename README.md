@@ -17,7 +17,8 @@ Sample website with plenty of files for demos
 
 
 ## How To Contribute
-
+Please for this repository and then issue pull request for 
 ## Copyright
 
 add copyright to the readme file
+
