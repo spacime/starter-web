@@ -17,3 +17,7 @@ Sample website with plenty of files for demos
 
 
 ## How To Contribute
+
+## Copyright
+
+add copyright to the readme file
