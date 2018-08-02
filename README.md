@@ -24,3 +24,5 @@ Please for this repository and then issue pull request for
 
 add copyright to the readme file
 
+all rights reserves
+
